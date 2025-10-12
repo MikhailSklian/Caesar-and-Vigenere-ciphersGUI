@@ -124,18 +124,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Caesar-and-Vigenere-ciphers\Лабораторная 1\CaesarCipher.hpp" />
-    <ClInclude Include="..\..\Caesar-and-Vigenere-ciphers\Лабораторная 1\Ciphers.hpp" />
-    <ClInclude Include="..\..\Caesar-and-Vigenere-ciphers\Лабораторная 1\VigenereCipher.hpp" />
     <ClInclude Include="Caesar-and-Vigenere-ciphersGUI.h" />
+    <ClInclude Include="CaesarCipher.hpp" />
+    <ClInclude Include="Ciphers.hpp" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="VigenereCipher.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Caesar-and-Vigenere-ciphers\Лабораторная 1\CaesarCipher.cpp" />
-    <ClCompile Include="..\..\Caesar-and-Vigenere-ciphers\Лабораторная 1\VigenereCipher.cpp" />
     <ClCompile Include="Caesar-and-Vigenere-ciphersGUI.cpp" />
+    <ClCompile Include="CaesarCipher.cpp" />
+    <ClCompile Include="VigenereCipher.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Caesar-and-Vigenere-ciphersGUI.rc" />
