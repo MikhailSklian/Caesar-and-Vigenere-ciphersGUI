@@ -125,12 +125,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Caesar-and-Vigenere-ciphersGUI.h" />
-    <ClInclude Include="CaesarCipher.hpp" />
     <ClInclude Include="Ciphers.hpp" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="VigenereCipher.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Caesar-and-Vigenere-ciphersGUI.cpp" />
